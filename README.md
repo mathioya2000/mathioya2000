@@ -50,7 +50,8 @@ ServiceNow, Business Rules, RESTMessageV2, GlideRecord, FastAPI, OpenAI API, Pyt
 
 Repository:
 
-https://github.com/mathioya2000/servicenow-ai-incident-auto-triage
+
+[ServiceNow AI Incident Auto-Triage](https://github.com/mathioya2000/servicenow-ai-incident-auto-triage)
 
 
 
