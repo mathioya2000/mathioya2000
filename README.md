@@ -6,7 +6,8 @@
 
 
 
-I build enterprise workflow automation solutions combining ServiceNow, AI, APIs, and operational intelligence.
+ServiceNow Certified Application Developer (CAD) with hands-on project experience in platform administration, 
+ITSM support, Flow Designer, Service Catalog, CMDB/CSDM, application development, REST APIs, and AI-powered workflow automation.
 
 
 
