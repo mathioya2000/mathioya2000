@@ -13,31 +13,31 @@ ITSM support, Flow Designer, Service Catalog, CMDB/CSDM, application development
 
 Focused on:
 
-\- ServiceNow ITSM automation
+- ServiceNow ITSM automation
 
-\- AI-powered incident management
+- AI-powered incident management
 
-\- CMDB / CSDM intelligence
+- CMDB / CSDM intelligence
 
-\- OpenAI integrations
+- OpenAI integrations
 
-\- FastAPI backend development
+- FastAPI backend development
 
-\- workflow automation
+- workflow automation
 
-\- enterprise AI assistants
-
-
-
-\---
+- enterprise AI assistants
 
 
 
-\## Featured Projects
+---
 
 
 
-\### ServiceNow AI Incident Auto-Triage \& Intelligent Routing
+## Featured Projects
+
+
+
+### ServiceNow AI Incident Auto-Triage \& Intelligent Routing
 
 AI-powered incident classification, priority recommendation, intelligent routing, SLA-aware triage, and round-robin technician assignment.
 
@@ -56,11 +56,11 @@ Repository:
 
 
 
-\---
+---
 
 
 
-\### ServiceNow AI Incident Copilot
+### ServiceNow AI Incident Copilot
 
 AI assistant for incident summarization, triage support, business impact reasoning, and troubleshooting guidance.
 
@@ -72,11 +72,11 @@ https://github.com/mathioya2000/servicenow-ai-incident-copilot
 
 
 
-\---
+---
 
 
 
-\### ServiceNow AI CMDB Impact Analyzer
+### ServiceNow AI CMDB Impact Analyzer
 
 AI-assisted CMDB dependency and impact analysis for operational decision-making.
 
@@ -88,7 +88,7 @@ https://github.com/mathioya2000/servicenow-ai-cmdb-impact-analyzer
 
 
 
-\---
+---
 
 
 
@@ -98,31 +98,31 @@ AI-assisted change risk analysis for smarter change management decisions.
 
 
 
-\---
+---
 
 
 
-\### ServiceNow AI Problem RCA Assistant
+### ServiceNow AI Problem RCA Assistant
 
 AI-powered root cause analysis support for recurring incident investigation.
 
 
 
-\---
+---
 
 
 
-\### ServiceNow AI Virtual Agent / Employee Support Assistant
+### ServiceNow AI Virtual Agent / Employee Support Assistant
 
 AI-powered employee self-service support assistant.
 
 
 
-\---
+---
 
 
 
-\## Core Skills
+## Core Skills
 
 
 
@@ -160,11 +160,11 @@ Enterprise Integrations
 
 
 
-\---
+---
 
 
 
-\## Currently Building
+## Currently Building
 
 
 
@@ -172,11 +172,11 @@ Enterprise AI automation projects that combine ServiceNow operational workflows 
 
 
 
-\---
+---
 
 
 
-\## Contact
+## Contact
 
 
 
