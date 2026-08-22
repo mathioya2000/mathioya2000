@@ -2,7 +2,7 @@
 
 
 
-## ServiceNow Developer | ServiceNow Administrator | AI Integration Engineer
+## ServiceNow Administrator | Support Analyst | Junior Developer | AI Integration
 
 
 
@@ -10,8 +10,17 @@ ServiceNow Certified Application Developer (CAD) with hands-on project experienc
 ITSM support, Flow Designer, Service Catalog, CMDB/CSDM, application development, REST APIs, and AI-powered workflow automation.
 
 
+### Areas of Focus
+- ServiceNow platform administration and user support
+  
+- Incident, Problem, and Change Management
 
-Focused on:
+  
+- Service Catalog and request fulfillment
+
+  
+- Flow Designer approvals, tasks, and notifications
+
 
 - ServiceNow ITSM automation
 
@@ -92,7 +101,7 @@ https://github.com/mathioya2000/servicenow-ai-cmdb-impact-analyzer
 
 
 
-\### ServiceNow AI Change Risk Advisor
+### ServiceNow AI Change Risk Advisor
 
 AI-assisted change risk analysis for smarter change management decisions.
 
